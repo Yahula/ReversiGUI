@@ -51,7 +51,7 @@ public class Main extends Application {
             row=r;
             column =c;
             Rectangle border = new Rectangle(100, 100);
-            border.setFill(Color.LIGHTCYAN);
+            border.setFill(Color.LIGHTGRAY);
             border.setStroke(Color.WHITE);
 
             setAlignment(Pos.CENTER);
